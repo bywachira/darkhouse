@@ -1,0 +1,14 @@
+{
+  "name": "darkhouse",
+  "version": "0.0.1",
+  "description": "You easier blog integration",
+  "main": "index.js",
+  "repository": "https://github.com/bywachira/darkhouse",
+  "author": "Erick Wachira",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
